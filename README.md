@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Deployed app link : https://github.com/imbaesible/breakingbad.git
+Deployed app link : https://laughing-bhaskara-7add04.netlify.app/ .
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
