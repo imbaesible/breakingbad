@@ -1,0 +1,31 @@
+.char__page{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100%;
+}
+
+.char__img{
+	width: 50%;
+	padding: 20px;
+}
+
+.char__img-img{
+	height: 400px;
+	width: 300px;
+	border-radius: 10%;
+}
+
+.char__name{
+	font-size: 3rem;
+	font-weight: 700;
+	/*background-color: gray;*/
+	border-bottom: 4px solid;
+	margin-bottom: 20px;
+	padding-bottom: 10px;
+}
+
+.char__occu, .char__status, .char__nick, .char__actname, .char__season, .char__quote{
+	padding-bottom: 10px;
+	font-size: 1.2rem;
+}
